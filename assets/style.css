@@ -1,0 +1,68 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Alumni Sans Pinstripe", sans-serif;
+  font-weight: bold;
+}
+body {
+  background: rgb(53, 0, 53);
+  height: 700px;
+}
+
+label,
+input {
+  display: block;
+  font-size: 30px;
+}
+
+.formulario {
+  background: rgba(0, 0, 0, 0.493);
+  width: 500px;
+  height: 550px;
+  margin: 70px auto;
+  border-radius: 20px;
+  color: #ff0;
+}
+
+h1 {
+  text-align: center;
+  color: #ff0;
+  text-transform: uppercase;
+  font-size: 50px;
+}
+.titulo {
+  padding: 15px 0px;
+  background: rgba(0, 0, 0, 0.411);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+label {
+  text-align: center;
+
+  text-transform: uppercase;
+  margin-top: 20px;
+}
+
+.info {
+  height: 30px;
+  width: 300px;
+  margin: auto;
+  margin-top: 20px;
+  background: rgba(0, 0, 0, 0.61);
+  border: none;
+  padding: 5px;
+  color: white;
+  border-radius: 10px;
+}
+
+.botao {
+  height: 40px;
+  width: 200px;
+  margin: auto;
+  margin-top: 20px;
+  background: #ff0;
+  border: none;
+  font-weight: bold;
+  border-radius: 10px;
+}
